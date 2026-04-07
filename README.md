@@ -21,7 +21,7 @@ Cleaning & Analysis: Managed the "hellscape" of raw data using Python (Pandas) t
 Visualization: Developed an executive-ready Tableau Dashboard to translate technical findings into actionable business visuals.
 
 📂 Repository Structure
-Analysis.ipynb: The full Python notebook featuring data cleaning, "idiot-proof" debugging notes, and Matplotlib visuals.
+Airline Project Finished.ipynb: The full Python notebook featuring data cleaning, "idiot-proof" debugging notes, and Matplotlib visuals.
 
 queries.sql: Clean, documented SQL scripts used for BigQuery extraction.
 
