@@ -25,7 +25,7 @@ Airline Project Finished.ipynb: The full Python notebook featuring data cleaning
 
 queries.sql: Clean, documented SQL scripts used for BigQuery extraction.
 
-Airline_Loyalty_ Campaign _Performance_ Analysis.twbx: The interactive Tableau workbook.
+Airline_Data_Analysis_Tableau.twbx: The interactive Tableau workbook.
 
 Airline_Loyalty_Program_Data_Analysis_PowerPoint.pdf
 
