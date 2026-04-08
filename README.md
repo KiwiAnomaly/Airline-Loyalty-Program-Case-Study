@@ -25,10 +25,13 @@ Airline Project Finished.ipynb: The full Python notebook featuring data cleaning
 
 queries.sql: Clean, documented SQL scripts used for BigQuery extraction.
 
-airline_dashboard.twbx: The interactive Tableau workbook.
+Airline_Loyalty_ Campaign _Performance_ Analysis.twbx: The interactive Tableau workbook.
+
+Airline_Loyalty_Program_Data_Analysis_PowerPoint.pdf
+
+
 
 🔗 Interactive Dashboard Link
 
 💡 About the Author
-I am the founder and President of the Texas A&M Texarkana Esports Organization. I specialize in using data analytics to solve organizational puzzles, whether it's securing $10,000 in university investments or identifying the "heavy hitters" in an airline's loyalty database I can solve it as long as you give me the tools and I dont suffer to the maxium extent :P
-
+Hello! My name is QJ or KiwiAnomaly welcome to my repository for my case study. I specialize in using data analytics to solve organizational puzzles, whether it's securing $10,000 in university investments or identifying the "heavy hitters" in an airline's loyalty database I can solve it as long as you give me the tools and I dont suffer to the maxium extent :P let me tell you this being my first project I went through a lot of pain getting all this together mostly from Tableau deciding to wipe most of my data off my data source but after less than a week I have all the data, Jupyter Notebook, Big Query SQL queries, Tableau Visualizations, and Presentation. I feel very satisfied about this project and if I feel like it i'll come back to it and maybe modify the data just to test random things. Anyway thats about it enjoy this repository.
